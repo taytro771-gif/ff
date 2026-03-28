@@ -1,0 +1,7 @@
+{
+  "name": "anime-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "z-ai-web-dev-sdk": "latest"
+  }
+}
